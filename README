@@ -1,0 +1,6 @@
+vim scripts and vimrc backup
+
+1. move .vimrc to .vim folder   统一到一个文件夹下
+2. ln -s ~/.vim/vimrc ~/.vimrc  建立vimrc的软链接
+3. git init/add/commit		用git开始管理
+4. install/update vim scripts   git commit/update/push/pull
