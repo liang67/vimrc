@@ -13,3 +13,6 @@ set guifont=WenQuanYi\ Micro\ Hei\ Mono\ 10
 
 "修改vimrc后自动应用
 "autocmd BufWritePost .vimrc source $MYVIMRC
+
+" key map for tagbar
+nnoremap <silent> <F9> :TagbarToggle<CR>
