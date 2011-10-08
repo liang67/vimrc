@@ -1,3 +1,4 @@
+﻿set encoding=utf-8
 set nocp
 set number
 set laststatus=2
