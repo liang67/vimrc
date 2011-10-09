@@ -9,7 +9,6 @@ filetype plugin indent on
 syntax on
 
 "设置默认字体
-"set guifont=WenQuanYi\ Micro\ Hei\ Mono\ 10
 if has("win32")
 	set guifont=Microsoft_YaHei_Mono:h12
 else
